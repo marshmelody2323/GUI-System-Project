@@ -18,4 +18,9 @@ public class MenuScript : MonoBehaviour
     {
         SceneManager.LoadScene(2);
     }
+
+    public void Play4()
+    {
+        SceneManager.LoadScene(3);
+    }
 }
